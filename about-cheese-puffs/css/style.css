@@ -1,0 +1,53 @@
+/*
+Project Name: About Cheese Puffs
+Author: Molly Freedenberg
+Developed for One Month HTML
+*/
+
+
+body {
+  color: white;
+  line-height: 1.5;
+  font-family: 'Slabo 27px', serif;
+  background: url('../images/cp_puffs_and_rc_3.jpg');
+
+
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 550px;
+  margin-top: 450px;
+  margin-left: 50px;
+  text-align: center;
+}
+
+.container2 {
+  width: 600px;
+  margin-top: -500px;
+  margin-left: 800px;
+  background: rgba(0,0,0,1);
+}
+
+h1 {
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 60px;
+	margin: -40px;
+}
+
+h3 {
+  font-size: 15px;
+  margin: -20px;
+}
+
+p {
+	font-size: 16px;
+}
+
+a {
+	color: red;
+	text-decoration: none;
+}

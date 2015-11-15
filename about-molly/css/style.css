@@ -1,0 +1,40 @@
+body {
+  color: white;
+  line-height: 1.5;
+  font-family: 'Slabo 27px', serif;
+  background: url('../images/molly-laughs2.png');
+
+
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 500px;
+  margin-top: 40px;
+  margin-left: 500px;
+}
+
+.container2 {
+  width: 500px;
+  margin-top: 40px;
+  margin-left: 500px;
+  background: rgba(0,0,0,1);
+}
+
+h1 {
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 60px;
+	margin: -40px;
+}
+
+p {
+	font-size: 16px;
+}
+
+a {
+	color: #DBA652;
+	text-decoration: none;
+}
